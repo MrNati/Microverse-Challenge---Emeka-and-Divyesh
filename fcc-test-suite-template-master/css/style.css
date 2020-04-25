@@ -1,9 +1,10 @@
-@media only screen and (max-width: 600px) {
-    body {
-        color: white;
-        background-color: black;
-    }
+#navbar {
+    position: fixed;
+    top: 0;
+    right: 0;
 }
+
+
 
 #welcome-section {
     height: 100vh;
