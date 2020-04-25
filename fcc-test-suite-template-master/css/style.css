@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 #navbar {
     margin-left: 15px;
 }
@@ -5,5 +10,14 @@
 #welcome-section {
     height: 100vh;
     overflow: auto;
+    margin-top: 8vh;
+    /* background-color: blanchedalmond; */
 }
- 
+
+.jumbotron {
+    height: 92%;
+}
+
+h1 {
+    padding-top: 10%;
+}
